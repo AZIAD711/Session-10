@@ -1,2 +1,0 @@
-GPA.html
-GPA.js
